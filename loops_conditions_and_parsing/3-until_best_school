@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-#This my shell loop
-counter=0 
+#This my loop Ajang
+counter=0
 until [ $counter -eq 10 ]
 do
     echo "Best School."
