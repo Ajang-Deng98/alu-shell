@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-#This my loop Ajang
-counter=0
-until [ $counter -eq 10 ]
-do
-    echo "Best School."
-    ((counter++))
-done
