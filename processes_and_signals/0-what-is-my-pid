@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# Get and display the script's PID (Process ID) - done by Chriss
-printf "%s\n" "$$"
+# change this comment Get and display the script's P.I.D. done by Chriss
+echo "$$\n"
